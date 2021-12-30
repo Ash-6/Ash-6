@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ash-6
 - 👀 I’m interested in code.
-- 🌱 I’m currently learning R and Linux
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> not reachable yet
 
